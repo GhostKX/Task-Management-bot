@@ -7,7 +7,7 @@ from datetime import datetime
 import time
 from dotenv import load_dotenv
 
-
+# Loading .env file
 load_dotenv()
 API_KEY = str(os.getenv('API_KEY'))
 bot = telebot.TeleBot(API_KEY)
