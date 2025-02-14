@@ -1,0 +1,7 @@
+.venv
+.idea
+.env
+.DS_Store
+task_manager.db
+__pycache__/
+
