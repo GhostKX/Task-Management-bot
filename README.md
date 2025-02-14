@@ -45,7 +45,7 @@ A **Python-based Telegram bot** that helps users manage their tasks and schedule
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Task-Management-bot.git
+git clone https://github.com/GhostKX/Task-Management-bot.git
 ```
 
 2. Install required dependencies
@@ -60,9 +60,14 @@ pip install -r requirements.txt
 bot = telebot.TeleBot(API_KEY)
 ```
 
-4. Run the bot
+4. Navigate to the file
 ```bash
-python task_manager_bot.py
+cd Task-Management-bot
+```
+
+5. Run the bot
+```bash
+python Task_Management_bot.py
 ```
 
 ## Usage
